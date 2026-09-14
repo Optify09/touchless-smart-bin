@@ -1,0 +1,12 @@
+# Clipul brut de telefon (prea mare pentru GitHub) — folosim un GIF/mp4 scurt in docs/
+*.mov
+*.mp4
+!docs/*.mp4
+
+# Diverse
+__pycache__/
+*.pyc
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
